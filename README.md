@@ -4,16 +4,16 @@ Bots **Discord** podem ser usados para diversas funções, desde a moderação d
 ### Este bot é equipado com diversas funcionalidades que facilitam a administração e o uso de bancos de dados, como:
 
 - **Execução de Queries SQL:** Usuários podem enviar comandos SQL diretamente no chat, e o bot processa e retorna os resultados instantaneamente.
-![image](https://github.com/Miguel-Marsico/QueryKnight-DiscordBot/assets/158609724/e9813fb9-2f0f-4968-8132-85fac4977f2d)
+![image](https://github.com/MTSCodeStore/QueryKnight-DiscordBot/assets/172341151/2309f41a-96bc-4a46-a801-569d93f48521)
 
 - **Atualização de Banco de Dados:** Permite adicionar, modificar e excluir registros no banco de dados, bem como criar e alterar estruturas de tabelas.
-![image](https://github.com/Miguel-Marsico/QueryKnight-DiscordBot/assets/158609724/2cb0dbcc-5bd9-46af-834c-2994537e15bd)
+![image](https://github.com/MTSCodeStore/QueryKnight-DiscordBot/assets/172341151/fe59b965-62a6-4ac0-99ae-03ce3f35d266)
 
 - **Backup Automático:** O bot realiza backups periódicos do banco de dados, garantindo que os dados estejam sempre seguros e disponíveis para recuperação em caso de falhas.
-![image](https://github.com/Miguel-Marsico/QueryKnight-DiscordBot/assets/158609724/88f311c8-291f-47c1-ab15-fe8d8d53f214)
+![image](https://github.com/MTSCodeStore/QueryKnight-DiscordBot/assets/172341151/4817d936-55bc-45b5-9b8b-71c8a3315057)
 
 - **Exportação de Dados:** Resultados de consultas podem ser exportados em vários formatos, facilitando a análise e o compartilhamento de informações.
-![image](https://github.com/Miguel-Marsico/QueryKnight-DiscordBot/assets/158609724/b9c4b370-7694-457f-863e-7501617a599f)
+![image](https://github.com/MTSCodeStore/QueryKnight-DiscordBot/assets/172341151/7ef6573f-f289-4d36-b47f-17c9528801a3)
 # 
 
 Com essas funções **nativas** em um Bot Discord, a estruturação de bancos de dados se torna mais fácil, permitindo que ac onfiguração de bots utilizados para gerenciamento de estoque, controle de usuários, registro de atividades, armazenamento de logs, implementação de sistemas de pontos e recompensas, entre outras finalidades, seja feita **dentro da própria plataforma**.
