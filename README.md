@@ -16,7 +16,7 @@ Bots **Discord** podem ser usados para diversas funções, desde a moderação d
 ![image](https://github.com/MTSCodeStore/QueryKnight-DiscordBot/assets/172341151/7ef6573f-f289-4d36-b47f-17c9528801a3)
 # 
 
-Com essas funções **nativas** em um Bot Discord, a estruturação de bancos de dados se torna mais fácil, permitindo que ac onfiguração de bots utilizados para gerenciamento de estoque, controle de usuários, registro de atividades, armazenamento de logs, implementação de sistemas de pontos e recompensas, entre outras finalidades, seja feita **dentro da própria plataforma**.
+Com essas funções **nativas** em um Bot Discord, a estruturação de bancos de dados se torna mais fácil, permitindo que a configuração de bots utilizados para gerenciamento de estoque, controle de usuários, registro de atividades, armazenamento de logs, implementação de sistemas de pontos e recompensas, entre outras finalidades, seja feita **dentro da própria plataforma**.
 
 #### **Veja mais bots personalizados no Servidor Discord da [MTS Code Store](https://discord.gg/QCQAsFBhqb)**
 
